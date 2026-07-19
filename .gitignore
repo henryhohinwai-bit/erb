@@ -175,3 +175,8 @@ cython_debug/
 .vscode/
 media/
 static/
+# macOS
+.DS_Store
+
+# Microsoft Word temporary files
+~$*.docx
